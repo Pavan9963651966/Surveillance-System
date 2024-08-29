@@ -1,0 +1,6 @@
+pandas
+numpy
+ultralytics
+roboflow
+ipykernel
+pytorch
